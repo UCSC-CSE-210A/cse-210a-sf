@@ -1,0 +1,70 @@
+andb_eq_orb (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+add_assoc (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+nonzeros_app (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+add_assoc' (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+ev100 (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+re_opt (standard, manually graded)
+Score: Ungraded / 6.0
+
+plus_id_exercise_from_basics (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+add_assoc_from_induction (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+S_injective_from_tactics (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+or_distributes_over_and_from_logic (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+re_opt_match'' (standard, manually graded)
+Score: Ungraded / 3.0
+
+andb3_exchange (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+andb_true_elim2' (standard, automatically graded)
+Score: 0.0 / 1.5
+Reason: Admitted proof.
+
+andb3_exchange' (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+nor_intuition (advanced, manually graded)
+Score: Ungraded / 6.0
+
+Points possible - standard: 19
+Points possible - advanced: 25
+
+   ###########################
+   ##### Grading Results #####
+   ###########################
+
+   Standard:  0.0 / 10.0 so far
+                and  9.0 ungraded
+
+   Advanced:  0.0 / 10.0 so far
+                and 15.0 ungraded
+

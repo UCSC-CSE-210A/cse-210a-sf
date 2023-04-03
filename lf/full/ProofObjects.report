@@ -1,0 +1,93 @@
+ev_8 (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+ev_8' (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+Props.conj_fact (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+Props.or_commut' (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+Props.ex_ev_Sn (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+Props.p_implies_true (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+Props.ex_falso_quodlibet' (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+EqualityPlayground.eq_cons (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+EqualityPlayground.equality__leibniz_equality (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+EqualityPlayground.equality__leibniz_equality_term (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+and_assoc (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+or_distributes_over_and (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+double_neg (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+contradiction_implies_anything (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+de_morgan_not_or (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+curry (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+uncurry (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+pe_implies_or_eq (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+pe_implies_true_eq (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+pe_implies_pi (advanced, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+Points possible - standard: 26
+Points possible - advanced: 31
+
+   ###########################
+   ##### Grading Results #####
+   ###########################
+
+   Standard:  0.0 / 26.0 so far
+                and  0.0 ungraded
+
+   Advanced:  0.0 / 31.0 so far
+                and  0.0 ungraded
+

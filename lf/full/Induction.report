@@ -1,0 +1,72 @@
+mul_0_r (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+plus_n_Sm (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+add_comm (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+add_assoc (standard, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+double_plus (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+eqb_refl (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+add_comm_informal (advanced, manually graded)
+Score: Ungraded / 2.0
+
+add_shuffle3 (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+mul_comm (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+bin_to_nat_pres_incr (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+nat_bin_nat (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+double_incr (advanced, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+double_bin_zero (advanced, automatically graded)
+Score: 0.0 / 0.5
+Reason: Admitted proof.
+
+double_incr_bin (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+bin_nat_bin (advanced, automatically graded)
+Score: 0.0 / 6.0
+Reason: Admitted proof.
+
+Points possible - standard: 15
+Points possible - advanced: 25
+
+   ###########################
+   ##### Grading Results #####
+   ###########################
+
+   Standard:  0.0 / 15.0 so far
+                and  0.0 ungraded
+
+   Advanced:  0.0 / 23.0 so far
+                and  2.0 ungraded
+

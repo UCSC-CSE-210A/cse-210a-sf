@@ -1,0 +1,87 @@
+ev_double (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+SSSSev__even (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+ev5_nonsense (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+ev_sum (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+ev_ev__ev (advanced, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+R.R_provability (standard, manually graded)
+Score: Ungraded / 3.0
+
+subseq_refl (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+subseq_app (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+subseq_trans (advanced, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+empty_is_empty (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+MUnion' (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+MStar' (standard, automatically graded)
+Score: 0.0 / 1.0
+Reason: Admitted proof.
+
+re_not_empty (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+re_not_empty_correct (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+Pumping.weak_pumping (advanced, automatically graded)
+Score: 0.0 / 10.0
+Reason: Admitted proof.
+
+reflect_iff (standard, automatically graded)
+Score: 0.0 / 2.0
+Reason: Admitted proof.
+
+eqbP_practice (standard, automatically graded)
+Score: 0.0 / 3.0
+Reason: Admitted proof.
+
+nostutter (standard, manually graded)
+Score: Ungraded / 3.0
+
+merge_filter (advanced, automatically graded)
+Score: 0.0 / 6.0
+Reason: Admitted proof.
+
+Points possible - standard: 25
+Points possible - advanced: 47
+
+   ###########################
+   ##### Grading Results #####
+   ###########################
+
+   Standard:  0.0 / 19.0 so far
+                and  6.0 ungraded
+
+   Advanced:  0.0 / 41.0 so far
+                and  6.0 ungraded
+
