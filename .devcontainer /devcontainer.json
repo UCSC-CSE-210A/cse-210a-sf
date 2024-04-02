@@ -1,0 +1,27 @@
+{
+	"name": "UCSC-CSE-210A",
+	// download container image from GitHub
+	"image": "ghcr.io/ucsc-cse-210a/devcontainer:latest",
+
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Set *default* container specific settings.json values on container create.
+			"settings": {
+				"terminal.integrated.shell.linux": "/bin/bash",
+				"git.defaultCloneDirectory": "/workspaces"
+			},
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+				"GitHub.classroom",
+				"GitHub.codespaces",
+				// "coq-community.vscoq1" is for Coq 8.17 or lower
+				"coq-community.vscoq1"
+				// "maximedenes.vscoq" is for Coq 8.18 or higher
+				// "maximedenes.vscoq"
+			]
+		}
+	},
+	// Comment out to connect as root instead. To add a non-root user, see: https://aka.ms/vscode-remote/containers/non-root.
+	"remoteUser": "vscode"
+}
